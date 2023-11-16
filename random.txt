@@ -1,0 +1,1 @@
+This is a text file and the current line was written from the main branch
